@@ -1,6 +1,6 @@
 #include <stdio.h>
-/* 10-29-2020 Chapter 1 The C Programming Language Notes */
-/* covers 1.3-1.5 */
+/* 09-29-2020 Chapter 1 The C Programming Language Notes */
+/* covers 1.3-1.5.1 */
 
 /* Secion 1.3 The For Statement */
 /* print Fahrenheit-Celsius table */

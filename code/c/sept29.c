@@ -1,4 +1,4 @@
-/* 10-29-2020 Chapter 1 The C Programming Language Notes */
+/* 09-29-2020 Chapter 1 The C Programming Language Notes */
 /* covers 1.1-1.2 */
 
 #include <stdio.h> /* include information about standard library */
