@@ -1,6 +1,6 @@
 #include <stdio.h>
 /* 10-01-2020 Chapter 1 The C Programming Language Notes */
-/* covers 1.5.2-1.5.4 */
+/* covers 1.5.2-1.5.3 */
 
 /* 1.5.2 Character Counting */
 
