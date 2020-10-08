@@ -1,4 +1,4 @@
-/* 10-01-2020 Chapter 1 The C Programming Language Notes */
+/* 10-05-2020 Chapter 1 The C Programming Language Notes */
 /* covers 1.5.4 */
 
 /* 1.5.4 Word Counting */
