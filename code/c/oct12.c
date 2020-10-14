@@ -1,5 +1,5 @@
 /* 10-07-2020 Chapter 1 The C Programming Language Notes */
-/* covers 1.8 */
+/* covers 1.8 - 1.9 */
 
 /* 1.8 Arguments -- Call by Value */
 
