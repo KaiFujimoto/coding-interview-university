@@ -504,12 +504,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] Description:
         - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [x] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
-        - [Multi-dim (video)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
-        - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-        - [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
-        - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
+        - [x] [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
+        - [x] [Multi-dim (video)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
+        - [x] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+        - [x] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+        - [x] [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
+        - [x] [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
